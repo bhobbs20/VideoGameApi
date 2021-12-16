@@ -95,7 +95,7 @@ function App() {
 
                     <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
                         <img
-                            src={game.thumb} alt=""
+                            src={game.thumb}
                             className="object-cover w-full h-64"
                             alt={game.title}
                         />
